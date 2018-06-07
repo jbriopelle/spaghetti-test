@@ -1,6 +1,6 @@
 int main () {
   puts("Hello, world!");
   puts("How are you?");
-  put("It's only Tuesday today?");
+  put("It's throwback Thursday today?");
   return 0;
 }
